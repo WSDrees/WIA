@@ -32,9 +32,6 @@ window.onload = function() {
             ctx.arc(525,150,100,0,2*Math.PI);
 
             ctx.fill();
-
-
-
         }
     }
 };
