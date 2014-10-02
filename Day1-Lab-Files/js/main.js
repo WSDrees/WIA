@@ -101,21 +101,23 @@ window.onload=function(){
 
     if(ctx3){
         ctx3.strokeStyle="black";
+        ctx3.fillStyle='yellow';
         ctx3.lineWidth=5;
 
         ctx3.lineJoin="round";
         ctx3.beginPath();
-        ctx3.moveTo(200,200);
-        ctx3.lineTo(250,250);
+        ctx3.moveTo(200,175);
+        ctx3.lineTo(235,250);
         ctx3.lineTo(300,250);
         ctx3.lineTo(250,300);
-        ctx3.lineTo(300,375);
+        ctx3.lineTo(275,375);
         ctx3.lineTo(200,325);
-        ctx3.lineTo(100,375);
+        ctx3.lineTo(125,375);
         ctx3.lineTo(150,300);
         ctx3.lineTo(100,250);
-        ctx3.lineTo(150,250);
-        ctx3.lineTo(200,200);
+        ctx3.lineTo(165,250);
+        ctx3.lineTo(200,175);
+        ctx3.closePath();
 
         ctx3.stroke();
     }
