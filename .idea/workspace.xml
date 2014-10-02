@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Images.js" afterPath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Images.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Clipping.js" afterPath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Clipping.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Clipping2.js" afterPath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Clipping2.js" />
     </list>
     <ignored path="WIA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +29,18 @@
       <file leaf-file-name="2E-Clipping.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2E-Clipping.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="465">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-6.521739" vertical-offset="0" max-vertical-offset="465">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Clipping.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Clipping.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5485232" vertical-offset="0" max-vertical-offset="711">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -38,32 +49,9 @@
       <file leaf-file-name="Clipping2.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Clipping2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+              <caret line="9" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="2" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Images.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Images.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6751055" vertical-offset="0" max-vertical-offset="711">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2D-Images.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2D-Images.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.73913" vertical-offset="0" max-vertical-offset="480">
-              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#video#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -85,6 +73,8 @@
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Patterns.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Gradients.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Images.js" />
+        <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Clipping2.js" />
+        <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Clipping.js" />
       </list>
     </option>
   </component>
@@ -362,22 +352,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2E-Clipping.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="465">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Clipping2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="711">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2D-Images.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.73913" vertical-offset="0" max-vertical-offset="480">
@@ -391,8 +365,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Images.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6751055" vertical-offset="0" max-vertical-offset="711">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.08438819" vertical-offset="0" max-vertical-offset="711">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2E-Clipping.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.521739" vertical-offset="0" max-vertical-offset="465">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Clipping2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <caret line="9" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Clipping.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5485232" vertical-offset="0" max-vertical-offset="711">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
