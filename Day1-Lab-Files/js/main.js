@@ -105,20 +105,20 @@ window.onload=function(){
 
         ctx3.lineJoin="round";
         ctx3.beginPath();
-        ctx3.moveTo(100,100);
-        ctx3.lineTo(125,125);
-        ctx3.lineTo(150,125);
-        ctx3.lineTo(125,155);
-        ctx3.lineTo(155,180);
-        ctx3.lineTo(100,180);
+        ctx3.moveTo(200,200);
+        ctx3.lineTo(250,250);
+        ctx3.lineTo(300,250);
+        ctx3.lineTo(250,300);
+        ctx3.lineTo(300,375);
+        ctx3.lineTo(200,325);
+        ctx3.lineTo(100,375);
+        ctx3.lineTo(150,300);
+        ctx3.lineTo(100,250);
+        ctx3.lineTo(150,250);
+        ctx3.lineTo(200,200);
+
         ctx3.stroke();
     }
-
-
-
-
-
-
     /*******************************************
      PART 4
 
@@ -153,6 +153,21 @@ window.onload=function(){
 
     if(ctx5){
 
+        //Text shadow settings
+        ctx5.shadowColor = 'red';
+        ctx5.shadowOffsetX = 3;
+        ctx5.shadowOffsetY = 3;
+        ctx5.shadowBlur = 7;
+
+        //Text created on the page
+        var textString = 'Practice using text';
+
+        //Text style
+        ctx5.font='22pt Helvetica';
+
+        //Draw text
+        ctx5.fillText(textString,100,100);
+
 
 
     }
@@ -176,7 +191,14 @@ window.onload=function(){
 
     if(ctx6){
 
+        var srcImg = document.getElementById('logo');
 
+        //Draw the image directly onto the canvas
+        //ctx6.drawImage(srcImg,0,0);
+
+        ctx6.drawImage(srcImg,0,0,srcImg.width *.5, srcImg.height *.5);
+
+        //ctx6.drawImage(srcImg,300,150,100,100,50,50,100,100);
 
     }
 
