@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2I-GlobalAlpha.htm" afterPath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2I-GlobalAlpha.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/GlobalAlpha.js" afterPath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/GlobalAlpha.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2J-Compositing.htm" afterPath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2J-Compositing.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Compositing.js" afterPath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Compositing.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/wsdrees.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/wsdrees.xml" />
     </list>
     <ignored path="WIA.iws" />
@@ -27,21 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2I-GlobalAlpha.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2I-GlobalAlpha.htm">
+      <file leaf-file-name="2J-Compositing.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2J-Compositing.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="405">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state vertical-scroll-proportion="-5.2173915" vertical-offset="0" max-vertical-offset="630">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GlobalAlpha.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/GlobalAlpha.js">
+      <file leaf-file-name="Compositing.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Compositing.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65400845" vertical-offset="0" max-vertical-offset="711">
-              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.75949365" vertical-offset="0" max-vertical-offset="825">
+              <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -74,6 +74,8 @@
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Rotate.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2I-GlobalAlpha.htm" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/GlobalAlpha.js" />
+        <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2J-Compositing.htm" />
+        <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Compositing.js" />
       </list>
     </option>
   </component>
@@ -454,6 +456,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.65400845" vertical-offset="0" max-vertical-offset="711">
           <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2J-Compositing.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.2173915" vertical-offset="0" max-vertical-offset="630">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Compositing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75949365" vertical-offset="0" max-vertical-offset="825">
+          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
           <folding />
         </state>
       </provider>
