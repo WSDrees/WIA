@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2J-Compositing.htm" afterPath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2J-Compositing.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Compositing.js" afterPath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Compositing.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/wsdrees.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/wsdrees.xml" />
-    </list>
+    <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="" />
     <ignored path="WIA.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,8 +36,8 @@
       <file leaf-file-name="Compositing.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Compositing.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75949365" vertical-offset="0" max-vertical-offset="825">
-              <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.10548523" vertical-offset="0" max-vertical-offset="825">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -470,8 +466,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Compositing.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75949365" vertical-offset="0" max-vertical-offset="825">
-          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.10548523" vertical-offset="0" max-vertical-offset="825">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
