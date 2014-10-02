@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Our First Canvas</title>
+        <style type="text/css">
+            #canvas{
+                border: dotted 3px black;
+            }
+        </style>
+        <script type="text/javascript">
+            window.onload=function(){
+                var thecanvas = document.getElementById("canvas");
+
+                //Setting up the 3d drawing context tools
+                var ctx = thecanvas.getContext("2d");
+
+                if(ctx !=null){
+                    //Draw a stroked blue rectangle
+                    ctx.strokeStyle = "blue";
+                    ctx.lineWidth = 1;
+
+                    //strokeRect( posX, posY, width, height )
+                    ctx.strokeRect(25,25,100,125);
+
+                    //Draw the fill rectangle
+                    //fillRect(posX,posY)
+                    ctx.fillRect(150,25,100,125);
+                }
+            }
+        </script>
+	</head>
+	<body>
+		<h1>First Canvas Example</h1>
+		<p>This document contains our first canvas example</p>
+    <canvas id="canvas" width="300" height="300"></canvas>
+
+	</body>
+</html>

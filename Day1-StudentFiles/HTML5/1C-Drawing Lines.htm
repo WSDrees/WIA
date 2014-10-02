@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Drawing Lines In Canvas</title>
+		<style type="text/css">
+			canvas {
+				border: dotted 1px black;
+			}
+		</style>
+		<script>
+			window.onload = function() {
+				// draw lines of varying widths
+				var theCanvas = document.getElementById('Canvas1');
+				if (theCanvas && theCanvas.getContext) {
+					var ctx = theCanvas.getContext("2d");
+					if (ctx) {
+                        ctx.strokeStyle="cyan";
+                        ctx.lineWidth=1;
+
+//                        ctx.beginPath();
+//                        ctx.moveTo(50,25);
+//                        ctx.lineTo(50,175);
+//                        ctx.moveTo(450,175);
+//                        ctx.stroke();
+//
+//                        ctx.lineCap="round";
+//                        ctx.beginPath();
+//                        ctx.moveTo(50,50);
+//                        ctx.lineTo(450,50);
+//                        ctx.stroke();
+
+                        ctx.lineJoin="round";
+                        ctx.beginPath();
+                        ctx.moveTo(25,150);
+                        ctx.lineTo(75,50);
+                        ctx.lineTo(125,150);
+                        ctx.stroke();
+					}
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<h1>Drawing Lines In Canvas</h1>
+		<p>This example will draw several styles of lines. First: basic line width</p>
+		<canvas id="Canvas1" width="500" height="200">Your browser does not support canvas.</canvas>
+
+
+	</body>
+</html>
