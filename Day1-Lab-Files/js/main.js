@@ -40,7 +40,7 @@ window.onload=function(){
     //Setting up the 3d drawing context tools
     var ctx = canvas1.getContext("2d");
 
-    if(ctx != null){
+    if(ctx){
 
         //Draw a stroked blue rectangle
         ctx.strokeStyle = "black";
@@ -71,7 +71,7 @@ window.onload=function(){
     var canvas2=document.getElementById("canvas2");
     var ctx2=canvas2.getContext("2d");
 
-    if(ctx2 != null){
+    if(ctx2){
 
         ctx2.fillStyle='rgba(255, 0, 0, .5)';
         ctx2.beginPath();
@@ -99,7 +99,7 @@ window.onload=function(){
     var canvas3=document.getElementById("canvas3");
     var ctx3=canvas3.getContext("2d");
 
-    if(ctx3 != null){
+    if(ctx3){
         ctx3.strokeStyle="black";
         ctx3.lineWidth=5;
 
@@ -134,7 +134,7 @@ window.onload=function(){
     var canvas4=document.getElementById("canvas4");
     var ctx4=canvas4.getContext("2d");
 
-    if(ctx4 != null){
+    if(ctx4){
 
 
 
@@ -151,7 +151,7 @@ window.onload=function(){
     var canvas5=document.getElementById("canvas5");
     var ctx5=canvas5.getContext("2d");
 
-    if(ctx5 != null){
+    if(ctx5){
 
 
 
@@ -171,6 +171,14 @@ window.onload=function(){
      ********************************************/
 
 //Draw images here
+    var canvas6=document.getElementById("canvas6");
+    var ctx6=canvas6.getContext("2d");
+
+    if(ctx6){
+
+
+
+    }
 
 
     /*******************************************
@@ -185,6 +193,13 @@ window.onload=function(){
      ********************************************/
 
 // Draw scene here
+    var canvas7=document.getElementById("canvas7");
+    var ctx7=canvas7.getContext("2d");
 
+    if(ctx7){
+
+
+
+    }
 
 };
