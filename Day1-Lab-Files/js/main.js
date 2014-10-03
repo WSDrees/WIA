@@ -138,6 +138,49 @@ window.onload=function(){
 
     if(ctx4){
 
+        //Umbrella handle
+        ctx4.strokeStyle='black ';
+        ctx4.lineWidth=10;
+
+        ctx4.beginPath();
+        ctx4.bezierCurveTo(250,139,300,425,160,275);
+        ctx4.stroke();
+
+        ctx4.strokeStyle='blue';
+        ctx4.lineWidth=3;
+
+        //Top part of the umbrella
+
+        ctx4.beginPath();
+        ctx4.fillStyle='blue';
+        ctx4.arc(250,150,100,Math.PI, 2*Math.PI, false);
+        ctx4.stroke();
+
+        //Under part of umbrella 1
+        ctx4.beginPath();
+        ctx4.arc(325,150,25,Math.PI,2*Math.PI, false);
+        ctx4.stroke();
+
+        //Under part of umbrella 2
+        ctx4.beginPath();
+        ctx4.arc(275,150,25,Math.PI,2*Math.PI, false);
+        ctx4.stroke();
+
+        //Under part of umbrella 3
+        ctx4.beginPath();
+        ctx4.arc(225,150,25,Math.PI,2*Math.PI, false);
+        ctx4.stroke();
+
+        //Under part of umbrella 4
+        ctx4.beginPath();
+        ctx4.arc(175,150,25,Math.PI,2*Math.PI, false);
+        ctx4.stroke();
+        ctx4.closePath();
+
+
+
+
+
 
 
     }
