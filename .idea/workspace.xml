@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/SoundJS.html" afterPath="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/SoundJS.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/js/manifest.js" afterPath="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/js/manifest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/ShowHide.js" afterPath="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/ShowHide.js" />
     </list>
     <ignored path="WIA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,31 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SoundJS.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/SoundJS.html">
+      <file leaf-file-name="ShowHide.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/ShowHide.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.869565" vertical-offset="0" max-vertical-offset="315">
-              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+            <state vertical-scroll-proportion="0.48523206" vertical-offset="0" max-vertical-offset="711">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manifest.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/js/manifest.js">
+      <file leaf-file-name="3A-ShowHide.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/3A-ShowHide.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.886076" vertical-offset="0" max-vertical-offset="735">
-              <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="simpleAudio.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/js/simpleAudio.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="630">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -104,6 +93,7 @@
         <option value="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/js/simpleAudio.js" />
         <option value="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/SoundJS.html" />
         <option value="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/js/manifest.js" />
+        <option value="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/ShowHide.js" />
       </list>
     </option>
   </component>
@@ -160,22 +150,8 @@
               <option name="myItemId" value="Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WIA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WIA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3-SoundJS" />
+              <option name="myItemId" value="4-jQuery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -193,7 +169,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="3-SoundJS" />
+              <option name="myItemId" value="4-jQuery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -212,54 +188,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3-SoundJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="audio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WIA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WIA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2-HTML5 Audio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WIA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WIA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2-HTML5 Audio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="audio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -400,22 +328,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day1-StudentFiles/HTML5/js/Curves.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1-Lab-Files/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day1-Lab-Files/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2085" max-vertical-offset="4155">
@@ -759,14 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/SoundJS.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.869565" vertical-offset="0" max-vertical-offset="315">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/js/simpleAudio.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
@@ -777,8 +681,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/js/manifest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.886076" vertical-offset="0" max-vertical-offset="735">
-          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.5063291" vertical-offset="0" max-vertical-offset="735">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/SoundJS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19622093" vertical-offset="0" max-vertical-offset="688">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/3A-ShowHide.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="711">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/ShowHide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48523206" vertical-offset="0" max-vertical-offset="711">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
           <folding />
         </state>
       </provider>
