@@ -2,34 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/1-html5Video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/2-VideoJS.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/images/posterImage.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/js/videoControl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/SkinOverPlayStopSeekCaptionVol.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/countdown.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/countdown.ogv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/flash-video.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/video.f4v" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/video.flv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/video.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/video.ogv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/video.xmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/2-HTML5 Audio/audio/music.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/2-HTML5 Audio/audio/music.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/2-HTML5 Audio/html5Audio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/2-HTML5 Audio/js/audioControl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/SoundJS-simple.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/SoundJS.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/audio/Thunder1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/audio/Thunder1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/audio/music.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/audio/music.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/includes/soundjs-0.5.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/js/manifest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/js/simpleAudio.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/example1.html" afterPath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/example1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example1.js" afterPath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/example2.html" afterPath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/example2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example2.js" afterPath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/fail.js" afterPath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/fail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/success.js" afterPath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/success.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/wsdrees.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/wsdrees.xml" />
     </list>
     <ignored path="WIA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,21 +29,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="example1.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/example1.html">
+      <file leaf-file-name="example2.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.73913" vertical-offset="0" max-vertical-offset="405">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.25316456" vertical-offset="0" max-vertical-offset="711">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/example2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.5652175" vertical-offset="0" max-vertical-offset="495">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example1.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example1.js">
+      <file leaf-file-name="fail.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/fail.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5907173" vertical-offset="0" max-vertical-offset="711">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="success.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/success.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+              <caret line="0" column="49" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -107,6 +106,10 @@
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Animation.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/Modernizr/example1.html" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example1.js" />
+        <option value="$PROJECT_DIR$/Day2-Student-Files/Modernizr/example2.html" />
+        <option value="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/success.js" />
+        <option value="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/fail.js" />
+        <option value="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example2.js" />
       </list>
     </option>
   </component>
@@ -644,9 +647,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5907173" vertical-offset="0" max-vertical-offset="711">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.23206751" vertical-offset="0" max-vertical-offset="711">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/success.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="711">
+          <caret line="0" column="49" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/fail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.5652175" vertical-offset="0" max-vertical-offset="495">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25316456" vertical-offset="0" max-vertical-offset="711">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
