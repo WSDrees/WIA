@@ -7,9 +7,38 @@
 
 	</head>
 
-	<body>	
-    	
-        
+	<body>
+
+    <!--
+    Attributes for video tag
+
+    controls: display the play/stop buttons
+
+    poster: a path to an image that will display before the video starts IT CAN BE ANYTHING YOU WANT IT TO BE
+    autoplay: immediately plays
+    width
+    height
+    src - path to your video
+    -->
+
+    <video src="video/video.ogv" width="400" height="225" controls poster="images/posterImage.jpg" >
+        HTML5 Video is not supported
+    </video>
+
+    <!--Multiple versions of a video file-->
+
+    <video width="400" height="225" controls>
+
+        <!--The browser will go through each source in order until one works-->
+
+        <source src="video/video.mp4" type="video/mp4" />
+        <source src="video/video.ogv" type="video/ogg" />
+
+        <embed src="video/video.flv" width="400" text="225" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+        Video is just not supported. Get a better browser
+
+    </video>
         
 	</body>
 
