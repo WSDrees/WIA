@@ -2,9 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2K-Animation.htm" afterPath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2K-Animation.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Animation.js" afterPath="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Animation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/1-html5Video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/2-VideoJS.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/images/posterImage.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/js/videoControl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/SkinOverPlayStopSeekCaptionVol.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/countdown.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/countdown.ogv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/flash-video.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/video.f4v" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/video.flv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/video.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/video.ogv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/1-HTML5 Video/video/video.xmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/2-HTML5 Audio/audio/music.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/2-HTML5 Audio/audio/music.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/2-HTML5 Audio/html5Audio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/2-HTML5 Audio/js/audioControl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/SoundJS-simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/SoundJS.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/audio/Thunder1.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/audio/Thunder1.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/audio/music.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/audio/music.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/includes/soundjs-0.5.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/js/manifest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day3-StudentFiles/3-SoundJS/js/simpleAudio.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/example1.html" afterPath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/example1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example1.js" afterPath="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example1.js" />
     </list>
     <ignored path="WIA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,21 +52,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Animation.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Animation.js">
+      <file leaf-file-name="example1.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/example1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5063291" vertical-offset="0" max-vertical-offset="915">
-              <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+            <state vertical-scroll-proportion="-11.73913" vertical-offset="0" max-vertical-offset="405">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2K-Animation.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2K-Animation.htm">
+      <file leaf-file-name="example1.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.695652" vertical-offset="0" max-vertical-offset="450">
-              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.5907173" vertical-offset="0" max-vertical-offset="711">
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -80,10 +105,13 @@
         <option value="$PROJECT_DIR$/Day1-Lab-Files/js/main.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2K-Animation.htm" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Animation.js" />
+        <option value="$PROJECT_DIR$/Day2-Student-Files/Modernizr/example1.html" />
+        <option value="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example1.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="808" />
@@ -145,22 +173,8 @@
               <option name="myItemId" value="Day2-Student-Files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WIA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WIA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Day2-Student-Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5 Adv" />
+              <option name="myItemId" value="Modernizr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -178,7 +192,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5 Adv" />
+              <option name="myItemId" value="Modernizr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -197,14 +211,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Day2-Student-Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5 Adv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -274,14 +280,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="808" extended-state="6" />
+    <frame x="-1" y="22" width="1440" height="808" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18888889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15347221" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -612,18 +618,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2742616" vertical-offset="0" max-vertical-offset="915">
+          <caret line="13" column="66" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2K-Animation.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.695652" vertical-offset="0" max-vertical-offset="450">
+        <state vertical-scroll-proportion="0.45784885" vertical-offset="0" max-vertical-offset="688">
           <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Animation.js">
+    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/example1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5063291" vertical-offset="0" max-vertical-offset="915">
-          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+        <state vertical-scroll-proportion="-11.73913" vertical-offset="0" max-vertical-offset="405">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5907173" vertical-offset="0" max-vertical-offset="711">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
           <folding />
         </state>
       </provider>
