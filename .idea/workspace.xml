@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/ShowHide.js" afterPath="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/ShowHide.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/3D-Animate.htm" afterPath="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/3D-Animate.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/Animate.js" afterPath="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/Animate.js" />
     </list>
     <ignored path="WIA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ShowHide.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/ShowHide.js">
+      <file leaf-file-name="Animate.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/Animate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48523206" vertical-offset="0" max-vertical-offset="711">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.6751055" vertical-offset="0" max-vertical-offset="711">
+              <caret line="32" column="73" selection-start-line="32" selection-start-column="73" selection-end-line="32" selection-end-column="73" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3A-ShowHide.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/3A-ShowHide.htm">
+      <file leaf-file-name="3D-Animate.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/3D-Animate.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="630">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-20.869566" vertical-offset="0" max-vertical-offset="660">
+              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -94,6 +95,8 @@
         <option value="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/SoundJS.html" />
         <option value="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/3-SoundJS/js/manifest.js" />
         <option value="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/ShowHide.js" />
+        <option value="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/3D-Animate.htm" />
+        <option value="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/Animate.js" />
       </list>
     </option>
   </component>
@@ -328,36 +331,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day1-Lab-Files/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2085" max-vertical-offset="4155">
-          <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1-StudentFiles/HTML5/1G-Curves.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2B-Patterns.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="420">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Patterns.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87341774" vertical-offset="279" max-vertical-offset="1095">
-          <caret line="60" column="46" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2C-Gradients.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="390">
@@ -695,6 +668,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/ShowHide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48523206" vertical-offset="0" max-vertical-offset="711">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/3A-ShowHide.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="711">
@@ -703,10 +684,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/ShowHide.js">
+    <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/Fade.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48523206" vertical-offset="0" max-vertical-offset="711">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="711">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/3B-Fade.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="711">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/3D-Animate.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.869566" vertical-offset="0" max-vertical-offset="660">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/Animate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6751055" vertical-offset="0" max-vertical-offset="711">
+          <caret line="32" column="73" selection-start-line="32" selection-start-column="73" selection-end-line="32" selection-end-column="73" />
           <folding />
         </state>
       </provider>
