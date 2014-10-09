@@ -22,7 +22,7 @@ window.onload = function() {
     shape.graphics.arc(100,100,75,0,-90*(Math.PI/180),1);
     //1 = make it anticlockwise!
 
-    
+
 
     //Add to stage and update
     stage.addChild(shape);
