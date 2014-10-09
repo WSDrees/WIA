@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Rectangle.js" afterPath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Rectangle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/4E-Ellipse.htm" afterPath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/4E-Ellipse.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Ellipse.js" afterPath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Ellipse.js" />
     </list>
     <ignored path="WIA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="4D-Rectangles.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/4D-Rectangles.htm">
+      <file leaf-file-name="4E-Ellipse.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/4E-Ellipse.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.130435" vertical-offset="0" max-vertical-offset="435">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="435">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rectangle.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Rectangle.js">
+      <file leaf-file-name="Ellipse.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Ellipse.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18987341" vertical-offset="0" max-vertical-offset="711">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.042194095" vertical-offset="0" max-vertical-offset="711">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -103,6 +104,8 @@
         <option value="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Strokes.js" />
         <option value="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/4D-Rectangles.htm" />
         <option value="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Rectangle.js" />
+        <option value="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Ellipse.js" />
+        <option value="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/4E-Ellipse.htm" />
       </list>
     </option>
   </component>
@@ -336,20 +339,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2I-GlobalAlpha.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="688">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/GlobalAlpha.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65400845" vertical-offset="0" max-vertical-offset="711">
-          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2D-Images.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.45784885" vertical-offset="0" max-vertical-offset="688">
@@ -686,18 +675,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Rectangle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.021097047" vertical-offset="0" max-vertical-offset="711">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/4D-Rectangles.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.130435" vertical-offset="0" max-vertical-offset="435">
+        <state vertical-scroll-proportion="0.30523255" vertical-offset="0" max-vertical-offset="688">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Rectangle.js">
+    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/4E-Ellipse.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18987341" vertical-offset="0" max-vertical-offset="711">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="435">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Ellipse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.042194095" vertical-offset="0" max-vertical-offset="711">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
           <folding />
         </state>
       </provider>
