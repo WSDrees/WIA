@@ -26,7 +26,4 @@ window.onload = function() {
     //Update our stage
     stage.update();
 
-
-
-
 };
