@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Compact.js" afterPath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Compact.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Primatives.js" afterPath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Primatives.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Rectangle.js" afterPath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Rectangle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Transform.js" afterPath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Transform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Bitmap.js" afterPath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Bitmap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Ticker.js" afterPath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Ticker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Tween.js" afterPath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Tween.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/Drawscript/js/canvas.js" afterPath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/Drawscript/js/canvas.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WIA.iws" />
@@ -29,41 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Primatives.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Primatives.js">
+      <file leaf-file-name="2A-Canvas.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/Drawscript/2A-Canvas.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Text.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Text.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="159" max-vertical-offset="870">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="390">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4F-Primatives.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/4F-Primatives.htm">
+      <file leaf-file-name="canvas.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/Drawscript/js/canvas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.73913" vertical-offset="0" max-vertical-offset="450">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Transform.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Transform.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7679325" vertical-offset="99" max-vertical-offset="810">
-              <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.8695652" vertical-offset="405" max-vertical-offset="1095">
+              <caret line="67" column="2" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -82,9 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Shadows.js" />
-        <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Patterns.js" />
-        <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Gradients.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Clipping2.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Clipping.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2F-Translate.htm" />
@@ -132,6 +109,10 @@
         <option value="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Rectangle.js" />
         <option value="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Primatives.js" />
         <option value="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Transform.js" />
+        <option value="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Ticker.js" />
+        <option value="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Bitmap.js" />
+        <option value="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Tween.js" />
+        <option value="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/Drawscript/js/canvas.js" />
       </list>
     </option>
   </component>
@@ -166,7 +147,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -213,7 +193,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CreateJS" />
+              <option name="myItemId" value="Drawscript" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -231,7 +211,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CreateJS" />
+              <option name="myItemId" value="Drawscript" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -241,6 +221,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,14 +285,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="808" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15277778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15221988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -365,69 +346,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Images.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2742616" vertical-offset="0" max-vertical-offset="750">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2A-Shadows.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="390">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Shadows.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84388185" vertical-offset="0" max-vertical-offset="810">
-          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1-StudentFiles/HTML5/1D- Drawing-States.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1-StudentFiles/HTML5/1E-Drawing-Paths.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1-StudentFiles/HTML5/1C-Drawing Lines.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1-StudentFiles/HTML5/js/Curves.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="711">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1-StudentFiles/HTML5/1F-Drawing-Arcs.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1-StudentFiles/HTML5/1G-Curves.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="711">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day1-Lab-Files/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.042194095" vertical-offset="2130" max-vertical-offset="4245">
@@ -699,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5485232" vertical-offset="0" max-vertical-offset="711">
           <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,7 +630,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/4F-Primatives.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.73913" vertical-offset="0" max-vertical-offset="450">
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="450">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding />
         </state>
@@ -721,8 +638,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Transform.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7679325" vertical-offset="99" max-vertical-offset="810">
+        <state vertical-scroll-proportion="0.79130435" vertical-offset="99" max-vertical-offset="810">
           <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Ticker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9347826" vertical-offset="240" max-vertical-offset="1065">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/4I-Ticker.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Bitmap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82608694" vertical-offset="510" max-vertical-offset="1305">
+          <caret line="72" column="65" selection-start-line="72" selection-start-column="65" selection-end-line="72" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/4K-Bitmap.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.112443775" vertical-offset="0" max-vertical-offset="667">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Tween.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6304348" vertical-offset="0" max-vertical-offset="735">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/4M-TweenJS.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="450">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/Drawscript/Drawscript.webloc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/Drawscript/2A-Canvas.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="390">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/Drawscript/js/canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8695652" vertical-offset="405" max-vertical-offset="1095">
+          <caret line="67" column="2" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
           <folding />
         </state>
       </provider>
