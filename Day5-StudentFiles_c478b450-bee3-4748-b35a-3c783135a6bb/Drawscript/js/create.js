@@ -22,4 +22,4 @@ window.onload = function() {
 	// Then we update the stage to draw it up
 	stage.update();
 
-}
+};

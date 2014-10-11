@@ -3,7 +3,7 @@ window.onload = function() {
 	if (theCanvas && theCanvas.getContext) {
 	var ctx = theCanvas.getContext("2d");
 	if (ctx) {
-				
+
 ctx.fillStyle="rgb(67,113,255)";
 ctx.strokeStyle="rgb(0,0,0)";
 ctx.lineWidth=1;
@@ -62,7 +62,7 @@ ctx.fill();
 
 
 
-						
+
 		}
 	}
 };
