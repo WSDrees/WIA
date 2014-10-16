@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day8 Student Files/2-ToDataURL/dataurl.html" afterPath="$PROJECT_DIR$/Day8 Student Files/2-ToDataURL/dataurl.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js" afterPath="$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js" />
     </list>
     <ignored path="WIA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,14 +25,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dataurl.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day8 Student Files/2-ToDataURL/dataurl.html">
+      <file leaf-file-name="line.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/line.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6971514" vertical-offset="0" max-vertical-offset="667">
-              <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
-              <folding>
-                <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="300">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LineGraph.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.08695652" vertical-offset="0" max-vertical-offset="690">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,7 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2G-Scale.htm" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2H-Rotate.htm" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Scale.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Rotate.js" />
@@ -102,6 +108,7 @@
         <option value="$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/js/Tea.js" />
         <option value="$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/Coffee-Tea.htm" />
         <option value="$PROJECT_DIR$/Day8 Student Files/2-ToDataURL/dataurl.html" />
+        <option value="$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js" />
       </list>
     </option>
   </component>
@@ -183,7 +190,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2-ToDataURL" />
+              <option name="myItemId" value="3-Chart.js-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WIA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WIA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day8 Student Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3-Chart.js-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -313,20 +342,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/fail.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16877638" vertical-offset="0" max-vertical-offset="711">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/success.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="711">
-          <caret line="0" column="49" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/1-HTML5 Video/1-html5Video.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12790698" vertical-offset="107" max-vertical-offset="795">
@@ -674,10 +689,26 @@
     <entry file="file://$PROJECT_DIR$/Day8 Student Files/2-ToDataURL/dataurl.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6971514" vertical-offset="0" max-vertical-offset="667">
-          <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+          <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
           <folding>
             <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/line.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="300">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08695652" vertical-offset="0" max-vertical-offset="690">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
