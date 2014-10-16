@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js" afterPath="$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day8 Student Files/4-Google Example/js/googleChart.js" afterPath="$PROJECT_DIR$/Day8 Student Files/4-Google Example/js/googleChart.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day8 Student Files/4-Google Example/index.html" afterPath="$PROJECT_DIR$/Day8 Student Files/4-Google Example/index.html" />
     </list>
     <ignored path="WIA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,9 +29,11 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day8 Student Files/4-Google Example/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="-3.2608695" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -38,8 +41,8 @@
       <file leaf-file-name="googleChart.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day8 Student Files/4-Google Example/js/googleChart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.8043478" vertical-offset="0" max-vertical-offset="825">
+              <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -58,8 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Scale.js" />
-        <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Rotate.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2I-GlobalAlpha.htm" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/GlobalAlpha.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2J-Compositing.htm" />
@@ -109,6 +110,8 @@
         <option value="$PROJECT_DIR$/Day8 Student Files/2-ToDataURL/dataurl.html" />
         <option value="$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/line.html" />
         <option value="$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js" />
+        <option value="$PROJECT_DIR$/Day8 Student Files/4-Google Example/index.html" />
+        <option value="$PROJECT_DIR$/Day8 Student Files/4-Google Example/js/googleChart.js" />
       </list>
     </option>
   </component>
@@ -700,16 +703,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day8 Student Files/4-Google Example/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="-3.2608695" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day8 Student Files/4-Google Example/js/googleChart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.8043478" vertical-offset="0" max-vertical-offset="825">
+          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
           <folding />
         </state>
       </provider>
