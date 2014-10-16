@@ -1,0 +1,424 @@
+/*=================== Reset ====================*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+/*=================== Global ===================*/
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+/*=================== Header ===================*/
+
+header{
+    background-color: #383838;
+    height: 150px;
+}
+img[alt="logo"] {
+    float: left;
+    margin-left: 1%;
+    max-width: 100%;
+}
+h1 {
+    text-indent: -9999px;
+}
+h2 {
+    text-align: center;
+    line-height: 50px;
+}
+
+/*=================== Search ===================*/
+#sitewrap{
+    height:100%;
+    overflow:hidden;
+    margin:0 auto;
+    border-left:10px solid #444;
+    border-right:10px solid #444;
+    background:#eee;
+}
+
+#wrap{
+    padding:3.33333333333%; /* 20px/600px */
+}
+
+#searchwrap{
+    width: 90%;
+    float:right;
+    padding-top:1px;
+    margin-top: 5px;
+}
+
+#search{
+    border:1px solid #666;
+    background:#fff;
+    color:#333;
+    width: 79%;
+    padding:3px;
+    line-height:20px;
+    float: left;
+}
+
+#submit{
+    border:1px solid #666;
+    background:#bbb;
+    color:#FFF;
+    line-height:26px;
+    text-align: center;
+    float: left;
+    width: 10%;
+    margin-right: 2%;
+    background: #67b940; /* Old browsers */
+    background: -moz-linear-gradient(top,  #67b940 0%, #383838 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#67b940), color-stop(100%,#383838)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #67b940 0%,#383838 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #67b940 0%,#383838 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #67b940 0%,#383838 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #67b940 0%,#383838 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#67b940', endColorstr='#383838',GradientType=0 ); /* IE6-9 */
+}
+
+#submit:hover {
+    font-weight: 300;
+    background: #383838;
+    color: #67B930;
+}
+
+#results{
+    clear:both;
+    border-top:1px solid #777;
+    background-color: ghostwhite;
+    opacity: .85;
+    overflow: hidden;
+    padding: 1%;
+}
+
+#results p{
+    padding:0 0 10px;
+    word-wrap: break-word;
+}
+
+#results a{
+    color:#c40;
+    font-size:16px;
+}
+
+/*=================== Section (class=main) ===================*/
+.content {
+    float: left;
+    width: 50%;
+    margin: 0 5%;
+}
+
+.course_details {
+    margin-right: 5%;
+}
+
+/*=================== Navigation ===================*/
+nav ul{
+    background: #d3d3d3;
+    list-style-type: none;
+    padding-left: 0;
+    width: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+    box-shadow: black 0.1em 0.1em 0.3em;
+    clear: both;
+}
+
+nav li {
+    width: 25%;
+    float: left;
+}
+
+nav a{
+    color: #383838;
+    line-height: 2em;
+    font-size: 1.2em;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+}
+
+nav a:hover{
+    color: #383838;
+    background: #67B930;
+}
+
+nav ul li:nth-child(odd) {
+    background: #67B930;
+    color: #383838;
+}
+
+nav ul li:nth-child(odd) a{
+    color: #67B930;
+    background-color: #383838;
+}
+
+nav ul li:nth-child(odd) a:hover{
+    background: #383838;
+    color: #FFF;
+}
+
+nav ul li{
+    min-width: 130px;
+}
+
+#content {
+    margin: 10px auto;
+    max-height: 100%;
+    width: 37%;
+    float: left;
+    text-align: center;
+    border-radius: 5px;
+}
+
+/*=================== Aside ===================*/
+aside{
+    margin-right: 1em;
+    width: 38%;
+    float: right;
+}
+
+/*=================== Images ===================*/
+/*img[alt="golf_score"] {*/
+    /*float: left;*/
+    /*margin-left: 10%;*/
+    /*max-width: 500px;*/
+    /*background-color: yellow;*/
+    /*border: 5px solid slateblue;*/
+/*}*/
+
+/*img[alt="golf_score1"] {*/
+    /*float: right;*/
+    /*margin-right: 10%;*/
+    /*max-width: 100%;*/
+    /*max-height: 100%;*/
+    /*background-color: green;*/
+    /*border: 5px solid slateblue;*/
+/*}*/
+
+img[alt="cypress point"]{
+    float: left;
+    margin-right: 2%;
+    max-width: 100%;
+}
+
+img[alt="golfer"]{
+    max-width: 20%;
+    margin-right: 1em;
+    float: left;
+}
+
+/*=================== Advertisement ===================*/
+img[alt="add"] {
+     opacity: .8;
+     float: left;
+     margin: 0 1.5%;
+     width: 30%;
+ }
+
+img[alt="add"]:hover {
+    opacity: 1;
+}
+
+ul {
+    clear: both;
+    margin: 0 auto;
+    list-style-type: none;
+    text-decoration: none;
+    width: 90%;
+}
+
+/*=================== Course information ===================*/
+
+.featureHeader {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.course_info {
+    text-align: left;
+    padding-left: 2em;
+}
+
+
+/*=================== Recent Activity ===================*/
+
+.recentActivity{
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+/*=================== Tips ===================*/
+.tip {
+    margin-top: 24px;
+}
+
+section p {
+    text-align: center;
+}
+
+article p {
+    margin-top: 1em;
+}
+
+/*=================== Buttons ===================*/
+[type~="button"] {
+    text-align: center;
+    line-height: 3em;
+    width: 30%;
+    margin: 5% auto;
+    display: block;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    background: #67b940; /* Old browsers */
+    background: -moz-linear-gradient(top,  #67b940 0%, #383838 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#67b940), color-stop(100%,#383838)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #67b940 0%,#383838 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #67b940 0%,#383838 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #67b940 0%,#383838 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #67b940 0%,#383838 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#67b940', endColorstr='#383838',GradientType=0 ); /* IE6-9 */
+    color: #fff;
+}
+
+[type~="button"]:hover {
+    font-weight: 800;
+    background: #383838;
+    color: #67B930;
+}
+
+.register{
+    margin: 0 auto;
+}
+/*=================== Form ===================*/
+
+form{
+    max-width: 100%;
+    margin: 2% 10%;
+}
+
+form li {
+    line-height: 3em;
+}
+
+li>label{
+    float: left;
+    text-align: right;
+    margin-right: 2%;
+    font-size: 1.25rem;
+}
+
+label, input {
+    width: 32%;
+}
+
+input[type="text"]{
+    line-height: 2em;
+    margin-bottom: 1.5em;
+    border-color: #383838;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    padding-left: 1%;
+}
+
+/* =================== Auto-Hide placeholder information =================*/
+input:focus::-webkit-input-placeholder { color:transparent; }
+input:focus:-moz-placeholder { color:transparent; } /* FF 4-18 */
+input:focus::-moz-placeholder { color:transparent; } /* FF 19+ */
+
+/*=================== Footer ===================*/
+
+.icons {
+    margin: 2em auto 0;
+    text-align: center;
+    background-color: #383838;
+    padding: 1em 0;
+}
+
+footer {
+    clear: both;
+}
+
+footer p {
+    width: 80%;
+    margin: auto;
+}
+
+/* =================== Media Queries =================*/
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {}
+@media only screen and (min-width: 961px) and (max-width: 1024px) {}
+@media only screen and (min-width: 901px) and (max-width: 960px) {}
+@media only screen and (min-width: 769px) and (max-width: 900px) {}
+@media only screen and (min-width: 641px) and (max-width: 768px) {
+
+    .profileSection2 {
+        display: none;
+    }
+}
+@media only screen and (min-width: 481px) and (max-width: 640px) {
+
+    img[alt="logo"]{
+        margin: 0 auto;
+        float: none;
+        text-align: center;
+    }
+
+    .userProfile {
+        max-width: 100%;
+    }
+
+    nav ul li {
+        float: none;
+        width: 100%;
+    }
+
+    .main {
+        width: 100%;
+    }
+}
+@media only screen and (min-width: 321px) and (max-width: 480px) {
+    nav ul li {
+        float: none;
+        width: 100%;
+    }
+
+    .content {
+        width: 100%;
+    }
+
+    .activity {
+        display: none;
+    }
+
+    .profileSection {
+        margin-bottom: 4%;
+    }
+
+    .sign_up {
+        width: 70%;
+    }
+
+}
+@media only screen and (max-width: 320px) {
+    nav ul li {
+        float: none;
+        width: 100%;
+    }
+
+    .content {
+        float: none;
+        width: 100%;
+    }
+
+    .activity {
+        margin: 0 2%;
+        float: none;
+        clear: both;
+    }
+
+}
