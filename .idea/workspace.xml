@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js" afterPath="$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/line.html" afterPath="$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/line.html" />
     </list>
     <ignored path="WIA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="line.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/line.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="300">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.173913" vertical-offset="0" max-vertical-offset="330">
+              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -38,8 +39,8 @@
       <file leaf-file-name="LineGraph.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08695652" vertical-offset="0" max-vertical-offset="690">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.5652174" vertical-offset="240" max-vertical-offset="945">
+              <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -58,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2H-Rotate.htm" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Scale.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Rotate.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2I-GlobalAlpha.htm" />
@@ -108,6 +108,7 @@
         <option value="$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/js/Tea.js" />
         <option value="$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/Coffee-Tea.htm" />
         <option value="$PROJECT_DIR$/Day8 Student Files/2-ToDataURL/dataurl.html" />
+        <option value="$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/line.html" />
         <option value="$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js" />
       </list>
     </option>
@@ -691,23 +692,23 @@
         <state vertical-scroll-proportion="0.6971514" vertical-offset="0" max-vertical-offset="667">
           <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
           <folding>
-            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/line.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="300">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-7.173913" vertical-offset="0" max-vertical-offset="330">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08695652" vertical-offset="0" max-vertical-offset="690">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.5652174" vertical-offset="240" max-vertical-offset="945">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
           <folding />
         </state>
       </provider>
