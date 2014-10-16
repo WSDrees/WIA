@@ -40,7 +40,7 @@ $(function() {
         };
 
         //Draw the chart on to the canvas
-        var myLine=new Chart(ctx).Radar(lineChartData,options);
+        var myLine=new Chart(ctx).Line(lineChartData,options);
 
     }
 
