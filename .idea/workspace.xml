@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/Coffee-Tea.htm" afterPath="$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/Coffee-Tea.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/js/Tea.js" afterPath="$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/js/Tea.js" />
     </list>
     <ignored path="WIA.iws" />
@@ -24,28 +25,36 @@
     <favorites_list name="WIA" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Coffee-Tea.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/Coffee-Tea.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="420">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tea.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/js/Tea.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.04347826" vertical-offset="0" max-vertical-offset="690">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.4231089">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="Coffee-Tea.htm" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/Coffee-Tea.htm">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.5277361" vertical-offset="488" max-vertical-offset="1185">
+                  <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="Tea.js" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/js/Tea.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.10869565" vertical-offset="0" max-vertical-offset="690">
+                  <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -58,7 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2F-Translate.htm" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Translate.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2G-Scale.htm" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2H-Rotate.htm" />
@@ -109,6 +117,7 @@
         <option value="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/Drawscript/js/create.js" />
         <option value="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/RevealJS/beginning.html" />
         <option value="$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/js/Tea.js" />
+        <option value="$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/Coffee-Tea.htm" />
       </list>
     </option>
   </component>
@@ -364,13 +373,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14767933" vertical-offset="0" max-vertical-offset="711">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day2-Student-Files/Modernizr/example2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15261628" vertical-offset="0" max-vertical-offset="688">
@@ -715,18 +717,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/Coffee-Tea.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/images/teapot-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/js/Tea.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04347826" vertical-offset="0" max-vertical-offset="690">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.10869565" vertical-offset="0" max-vertical-offset="690">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/Coffee-Tea.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5277361" vertical-offset="488" max-vertical-offset="1185">
+          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
           <folding />
         </state>
       </provider>
