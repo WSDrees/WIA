@@ -7,7 +7,74 @@
 	<body>
 		<h1>Drawing SVGs</h1>
 		<p>This example will show how to draw using an SVG.</p>
-	
+
+    <!-- Svg tag and set the width and height -->
+
+    <svg width="250" height="250">
+
+        <!--Create a rectangle, x, y, top left hand corner is the starting point
+            rx, ry = round the corners
+        -->
+
+        <rect
+                x="50" y="50"
+                width="100" height="100"
+                fill="blue" stroke="red"
+                stroke-width="5px"
+                rx="8" ry="8"
+                id="myRect" class="chart"
+
+
+                />
+
+        <!-- Circle inside of the square
+            cx, cy = center of the circle coordinates
+            r = radius of the circle
+        -->
+
+        <circle
+                cx="100" cy="100"
+                r="40"
+                fill="yellow" stroke="black"
+                stroke-width="2"
+                fill-opacity=".5"
+
+                />
+
+    </svg>
+
+        <br/>
+
+    <svg width="300" height="300">
+
+        <!--Drawing an elipse
+        cx and cy = center (x,y)
+        rx and ry = horizontal and vertical rounds
+        <ellipse cx cy rx ry-->
+            <!-->
+
+        <ellipse rx="100" ry="50" cx="150" cy="100"
+
+                style="fill:yellow; stroke:purple; stroke-width:6"
+
+                />
+
+
+        <!--
+         Draw a line
+         x1 y1 = starting point
+         x2 y2 = ending point
+         <line x1 y1 x2 y2/>
+         -->
+
+        <line
+                x1="0" y1="0"
+                x2="300" y2="300"
+                style="stroke:rgb(255,0,0);stroke-width:2;"
+                />
+
+
+    </svg>
 
 	</body>
 </html>
