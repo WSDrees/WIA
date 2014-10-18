@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SVG/1A.htm" afterPath="$PROJECT_DIR$/SVG/1A.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SVG/img/1B-A.svg" afterPath="$PROJECT_DIR$/SVG/img/1B-A.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SVG/1B.htm" afterPath="$PROJECT_DIR$/SVG/1B.htm" />
     </list>
     <ignored path="WIA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +29,8 @@
       <file leaf-file-name="1B.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SVG/1B.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="330">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.173913" vertical-offset="0" max-vertical-offset="330">
+              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -39,8 +39,8 @@
       <file leaf-file-name="1B-A.svg" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SVG/img/1B-A.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.043227665" vertical-offset="0" max-vertical-offset="694">
-              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.75648415" vertical-offset="0" max-vertical-offset="694">
+              <caret line="35" column="70" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -59,8 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Day1-Lab-Files/index.html" />
-        <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Images.js" />
         <option value="$PROJECT_DIR$/Day1-Lab-Files/js/main.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/2K-Animation.htm" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/HTML5 Adv/js/Animation.js" />
@@ -110,6 +108,8 @@
         <option value="$PROJECT_DIR$/Tee Time/css/styles.css" />
         <option value="$PROJECT_DIR$/Tee Time/best_value.html" />
         <option value="$PROJECT_DIR$/SVG/1A.htm" />
+        <option value="$PROJECT_DIR$/SVG/1B.htm" />
+        <option value="$PROJECT_DIR$/SVG/img/1B-A.svg" />
       </list>
     </option>
   </component>
@@ -666,14 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SVG/1B.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="694">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SVG/img/1B-B.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="694">
@@ -682,10 +674,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SVG/1B.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.173913" vertical-offset="0" max-vertical-offset="330">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SVG/img/1B-A.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.043227665" vertical-offset="0" max-vertical-offset="694">
-          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.75648415" vertical-offset="0" max-vertical-offset="694">
+          <caret line="35" column="70" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
           <folding />
         </state>
       </provider>
