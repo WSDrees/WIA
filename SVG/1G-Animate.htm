@@ -1,44 +1,44 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>SVG Animations</title>
+<head>
+    <title>SVG Animations</title>
 
-	</head>
-	<body>
-		<h1>SVG Animations</h1>
-		<p>This example will show how to animation properties of an SVG.</p>
-	
-   <svg width="500" height="500">
+</head>
+<body>
+<h1>SVG Animations</h1>
+<p>This example will show how to animation properties of an SVG.</p>
 
-       <circle r="30" cx="0" cy="50" fill="blue" stroke="black" stroke-width="1">
+<svg width="500" height="500">
 
-            <!--
-                <animate>
-                from = initial value of the attribute that your changing
-                to = final value of the attribute that your changing
-                dur = duration of the animation - "5s" = 5 seconds
-                begin = when in time should we animate
-                fill = "freeze" FREEZES THE ATTRIBUTES AFTER THE ANIMATION
-            -->
+    <circle r="30" cx="0" cy="50" fill="blue" stroke="black" stroke-width="1">
 
-           <animate attributeName="cx" from="-30" to="530" dur="5s" repeatCount="indefinite" />
-           <animate attributeName="r" id="grow" begin="0s" from="10" to="50" dur="1s" repeatCount="1" />
-            <animate attributeName="r" id="shrink" begin="grow.end" from="50" to="10" dur="1s" repeatCount="1"
-                     fill="freeze"/>
-       </circle>
-       
-       <circle r="30" cx="0" cy="100" fill="red" stroke="black" stroke-width="1" >
-           
-           <animate attributeName="cx" from="-50" to="550" dur="5s" repeatCount="indefinite" />
-           <animate attributeName="r" values='30; 10; 30' dur="1s" repeatCount="indefinite" />
-           
-       </circle>
+        <!--
+            <animate>
+            from = initial value of the attribute that your changing
+            to = final value of the attribute that your changing
+            dur = duration of the animation - "5s" = 5 seconds
+            begin = when in time should we animate
+            fill = "freeze" FREEZES THE ATTRIBUTES AFTER THE ANIMATION
+        -->
 
+        <animate attributeName="cx" from="-30" to="530" dur="5s" repeatCount="indefinite" />
+        <animate attributeName="r" id="grow" begin="0s" from="10" to="50" dur="1s" repeatCount="1" />
+        <animate attributeName="r" id="shrink" begin="grow.end" from="50" to="10" dur="1s" repeatCount="1"
+                 fill="freeze"/>
+    </circle>
 
+    <circle r="30" cx="0" cy="100" fill="red" stroke="black" stroke-width="1" >
+
+        <animate attributeName="cx" from="-50" to="550" dur="5s" repeatCount="indefinite" />
+        <animate attributeName="r" values='30; 10; 30' dur="1s" repeatCount="indefinite" />
+
+    </circle>
 
 
-   </svg>
 
 
-	</body>
+</svg>
+
+
+</body>
 </html>
