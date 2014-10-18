@@ -2,5 +2,19 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
-	 
-       
+<svg width='500' height='500' xmlns='http://www.w3.org/2000/svg' version='1.1'>
+
+
+<!--
+    Path Drawing - Using Compact Code
+    Capital Letter are use for Absolute Positioning
+    lower case letter are used for relative positioning
+
+    Path Drawing commands:
+        M= moveto
+        L
+
+-->
+
+
+</svg>
