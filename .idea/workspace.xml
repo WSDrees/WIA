@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SVG/1F-Transform.htm" afterPath="$PROJECT_DIR$/SVG/1F-Transform.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SVG/1G-Animate.htm" afterPath="$PROJECT_DIR$/SVG/1G-Animate.htm" />
     </list>
     <ignored path="WIA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="1F-Transform.htm" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SVG/1F-Transform.htm">
+      <file leaf-file-name="1G-Animate.htm" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SVG/1G-Animate.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42473918" vertical-offset="0" max-vertical-offset="750">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.7153502" vertical-offset="0" max-vertical-offset="750">
+              <caret line="32" column="90" selection-start-line="32" selection-start-column="90" selection-end-line="32" selection-end-column="90" />
               <folding />
             </state>
           </provider>
@@ -48,7 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/success.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/fail.js" />
         <option value="$PROJECT_DIR$/Day2-Student-Files/Modernizr/js/example2.js" />
         <option value="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/1-HTML5 Video/1-html5Video.html" />
@@ -99,6 +98,7 @@
         <option value="$PROJECT_DIR$/SVG/1E.htm" />
         <option value="$PROJECT_DIR$/SVG/img/1E.svg" />
         <option value="$PROJECT_DIR$/SVG/1F-Transform.htm" />
+        <option value="$PROJECT_DIR$/SVG/1G-Animate.htm" />
       </list>
     </option>
   </component>
@@ -292,13 +292,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/js/Animate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6751055" vertical-offset="0" max-vertical-offset="711">
-          <caret line="32" column="73" selection-start-line="32" selection-start-column="73" selection-end-line="32" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/4-jQuery/3D-Animate.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6976744" vertical-offset="0" max-vertical-offset="688">
@@ -646,6 +639,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42473918" vertical-offset="0" max-vertical-offset="750">
           <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SVG/1G-Animate.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7153502" vertical-offset="0" max-vertical-offset="750">
+          <caret line="32" column="90" selection-start-line="32" selection-start-column="90" selection-end-line="32" selection-end-column="90" />
           <folding />
         </state>
       </provider>
