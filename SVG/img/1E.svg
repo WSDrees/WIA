@@ -11,10 +11,30 @@
     lower case letter are used for relative positioning
 
     Path Drawing commands:
-        M= moveto
-        L
-
+        M = moveto
+        L = lineto
+        H = Horizontal Lineto
+        V = Vertical LintTo
+        C = curveto
+        S = smooth curveto
+        Q = quadratic bezier curve to
+        T = Smooth Quadratic Bezier Curve to
+        A = Arc
+        Z = closePath
 -->
+
+<path
+    d='M125 0 L50 100 l200 100 Z'
+    style = 'fill:red; stroke:black; stroke-width:4'
+
+/>
+
+<path
+   d='M100 350 Q250 50 400 350'
+   stroke='blue' stroke-width='5'
+   fill='none'
+
+/>
 
 
 </svg>
