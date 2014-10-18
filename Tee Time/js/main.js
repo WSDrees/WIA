@@ -183,7 +183,7 @@
         });
     });
 
-    setInterval('updateClock()', 1000);
+    setInterval('updateClock', 1000);
 
     //gets data from json file
     getdata();
