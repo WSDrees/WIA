@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SVG/1G-Animate.htm" afterPath="$PROJECT_DIR$/SVG/1G-Animate.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SVG/1H-Animate-Color.htm" afterPath="$PROJECT_DIR$/SVG/1H-Animate-Color.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SVG/1I-Animate-Trans.htm" afterPath="$PROJECT_DIR$/SVG/1I-Animate-Trans.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SVG/1J-AnimateMotion.htm" afterPath="$PROJECT_DIR$/SVG/1J-AnimateMotion.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SVG/1L -Illustrator.htm" afterPath="$PROJECT_DIR$/SVG/1L -Illustrator.htm" />
     </list>
     <ignored path="WIA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,14 +25,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="1J-AnimateMotion.htm" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="1L -Illustrator.htm" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SVG/1L -Illustrator.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4023845" vertical-offset="0" max-vertical-offset="780">
+              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1J-AnimateMotion.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SVG/1J-AnimateMotion.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9165425" vertical-offset="0" max-vertical-offset="750">
-              <caret line="41" column="82" selection-start-line="41" selection-start-column="82" selection-end-line="41" selection-end-column="82" />
+            <state vertical-scroll-proportion="-12.869565" vertical-offset="79" max-vertical-offset="750">
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
               <folding>
                 <element signature="n#style#0;n#path#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="illustrator.svg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SVG/img/illustrator.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="114" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/1-HTML5 Video/2-VideoJS.html" />
         <option value="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/1-HTML5 Video/js/videoControl.js" />
         <option value="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/2-HTML5 Audio/html5Audio.html" />
         <option value="$PROJECT_DIR$/Day3-StudentFiles_ecc40b27-16c3-4e81-8e0c-9d442c7e645d/2-HTML5 Audio/js/audioControl.js" />
@@ -104,6 +120,7 @@
         <option value="$PROJECT_DIR$/SVG/1I-Animate-Trans.htm" />
         <option value="$PROJECT_DIR$/SVG/1H-Animate-Color.htm" />
         <option value="$PROJECT_DIR$/SVG/1J-AnimateMotion.htm" />
+        <option value="$PROJECT_DIR$/SVG/1L -Illustrator.htm" />
       </list>
     </option>
   </component>
@@ -167,6 +184,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="SVG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WIA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WIA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SVG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -297,20 +332,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Setup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6751055" vertical-offset="0" max-vertical-offset="720">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/4A-Setup.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.021802325" vertical-offset="0" max-vertical-offset="688">
-          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Fills.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.021097047" vertical-offset="0" max-vertical-offset="780">
@@ -651,13 +672,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SVG/img/illustrator.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SVG/1J-AnimateMotion.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9165425" vertical-offset="0" max-vertical-offset="750">
-          <caret line="41" column="82" selection-start-line="41" selection-start-column="82" selection-end-line="41" selection-end-column="82" />
+        <state vertical-scroll-proportion="-12.869565" vertical-offset="79" max-vertical-offset="750">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
           <folding>
             <element signature="n#style#0;n#path#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SVG/1L -Illustrator.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4023845" vertical-offset="0" max-vertical-offset="780">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
