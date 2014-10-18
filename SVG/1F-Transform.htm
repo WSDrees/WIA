@@ -8,7 +8,36 @@
 		<h1>SVG Transforms</h1>
 		<p>This example will show how to transform an SVG.</p>
 	
-    
+    <svg width="500" height="500">
+
+        <rect height="100" width="100"
+              x="50" y="50"
+              fill="blue"
+              stroke="red"
+              stroke-width="5px"
+              rx="8" ry="8"
+
+              transform="skewX(20) skewY(20)"
+              />
+
+        <!--
+            Just need an attribute called transform
+            rotate(angle you want it to rotate) ANGLE IN DEGREES
+            IT WILL ROTATE AROUND THE ORIGIN
+            rotate(45)
+            rotate(angle, x1, y1) - rotate but around the point x1, y1
+            rotate(45,100,100)
+
+            translate(x1,y1) - Moves or shifts the object by the number of px (the number of x1 and y1)
+            translate(50,20)
+
+            scale(amount to scale) - 1 = 100% 2 = 200% .5 =50%
+            scale(2)
+
+            skewX(angle) skewY(angle)
+        -->
+
+    </svg>
 
 
 	</body>
