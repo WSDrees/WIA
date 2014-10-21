@@ -17,11 +17,6 @@ window.onload = function() {
         //ctx.drawImage(srcImg,350,200,125,100,50,50,125,100);
 
 
-
-
-
-
-
 //        Draw the video onto the canvas
 //        Setup an interval function
 //        Grab each image as the video plays and then PAINT it on the canvas

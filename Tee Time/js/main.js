@@ -196,6 +196,9 @@
         return false;
     });
     updateClock();
+
+
+
     /*==================================== END EVENTS===============================================*/
 
 })(jQuery); // end private scope
