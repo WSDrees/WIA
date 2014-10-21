@@ -1,2 +1,29 @@
 @charset "UTF-8";
 
+.icons #facebook {
+    background-image: url(../images/socialicons.png);
+    background-repeat: no-repeat;
+    display: block;
+    height: 32px;
+    width: 32px;
+    float: left;
+    background-position: 0 0;
+}
+
+.icons #facebook:hover {
+    background-position: 0 -32px;
+}
+
+.icons #twitter {
+    background-image: url(../images/socialicons.png);
+    background-repeat: no-repeat;
+    display: block;
+    height: 32px;
+    width: 32px;
+    float: left;
+    background-position: -32px 0;
+}
+
+.icons #twitter:hover {
+    background-position: -32px -32px;
+}
