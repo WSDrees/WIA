@@ -323,24 +323,25 @@ input[type="text"]{
     height: 464px;
     width: 491px;
     float: left;
+    position: relative;
     margin-left: 2.5%;
 }
 
-.locationContainer a.dot {
+.mapContainer a.dot {
     background: url(../images/dots.png) no-repeat 0 0;
     height: 20px;
     width: 20px;
     display: block;
     cursor: pointer;
     position: absolute;
-    z-index: 10000000;
+
 }
 
-.locationContainer a.dot:hover {
+.mapContainer a.dot:hover {
     background-position: 0 -20px;
 }
 
-.locationContainer a.dot.selected {
+.mapContainer a.dot.selected {
     background-position: 0 -40px;
 }
 
