@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/1-CSS/1-Illustrator/create_grid.ai" afterPath="$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/1-CSS/1-Illustrator/create_grid.ai" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/2-HTML5/1-Flash/doggy.fla" afterPath="$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/2-HTML5/1-Flash/doggy.fla" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/1-CSS/2-Social Media Icons/index.html" afterPath="$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/1-CSS/2-Social Media Icons/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/1-CSS/2-Social Media Icons/css/social.css" afterPath="$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/1-CSS/2-Social Media Icons/css/social.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/2-HTML5/2-HTML5/js/spritesheet.js" afterPath="$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/2-HTML5/2-HTML5/js/spritesheet.js" />
     </list>
     <ignored path="WIA.iws" />
@@ -29,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/2-HTML5/2-HTML5/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="465">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.55886734" vertical-offset="0" max-vertical-offset="671">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spritesheet.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="spritesheet.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/2-HTML5/2-HTML5/js/spritesheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4755043" vertical-offset="0" max-vertical-offset="694">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1095">
+              <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -789,18 +785,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/2-HTML5/2-HTML5/index.html">
+    <entry file="file://$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/2-HTML5/2-HTML5/js/spritesheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="671">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1095">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/2-HTML5/2-HTML5/js/spritesheet.js">
+    <entry file="file://$PROJECT_DIR$/Day10-Student Files/1-Sprite Sheet/2-HTML5/2-HTML5/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4755043" vertical-offset="0" max-vertical-offset="694">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.55886734" vertical-offset="0" max-vertical-offset="671">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
