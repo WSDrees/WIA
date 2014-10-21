@@ -326,6 +326,12 @@ input[type="text"]{
     padding-left: 1%;
 }
 
+/* ================ Best Value ================= */
+#map{
+    background-color: #383838;
+    float: left;
+}
+
 /* =================== Auto-Hide placeholder information =================*/
 input:focus::-webkit-input-placeholder { color:transparent; }
 input:focus:-moz-placeholder { color:transparent; } /* FF 4-18 */
