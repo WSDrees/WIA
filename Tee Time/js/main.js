@@ -197,6 +197,22 @@
     });
     updateClock();
 
+    //===================INTERACTIVE MAP======================
+
+    $('a.dot').click(function(){
+        $('a.dot').removeClass('selected');
+        $(this).addClass('selected');
+
+        var course = '.courseDetail#' + $(this).attr('course');
+        var htmlCode = $(course).html();
+
+        $('.courseDetailContainer').fadeOut(500,function(){
+            $('.courseDetailContainer .courseOverview').html(htmlCode);
+            $('.courseDetailContainer').fadeIn(500);
+        })
+
+    });
+
 
 
     /*==================================== END EVENTS===============================================*/

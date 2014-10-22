@@ -311,10 +311,6 @@ input[type="text"]{
 }
 
 /* ================ Best Value ================= */
-#map{
-    background-color: #383838;
-    float: left;
-}
 
 /* ================ Interactive Map ================= */
 
@@ -334,7 +330,6 @@ input[type="text"]{
     display: block;
     cursor: pointer;
     position: absolute;
-
 }
 
 .mapContainer a.dot:hover {
@@ -343,6 +338,10 @@ input[type="text"]{
 
 .mapContainer a.dot.selected {
     background-position: 0 -40px;
+}
+
+.courseDetailContainer {
+    display: none;
 }
 
 
