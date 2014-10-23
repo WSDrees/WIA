@@ -1,0 +1,1 @@
+console.log('Our browser supports the date picker');
