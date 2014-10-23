@@ -1,6 +1,8 @@
 /**
  * Created by wsdrees on 10/23/14.
  */
+
+//Modernizr
 Modernizr.load({
 
     test: Modernizr.inputtypes.date,
@@ -11,6 +13,8 @@ Modernizr.load({
         console.log('This runs after our tests');
     }
 });
+
+//LOGO
 
 window.onload = function() {
     var theCanvas = document.getElementById('canvasLogo');
