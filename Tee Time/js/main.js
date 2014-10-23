@@ -213,6 +213,15 @@
 
     });
 
+    //=================== DATA VISUALIZATION =================
+
+    $('.locationInfo').hide();
+
+    $('#location').click(function(){
+
+       $('.locationInfo').show('normal');
+    });
+
 
 
     /*==================================== END EVENTS===============================================*/

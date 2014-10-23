@@ -298,6 +298,10 @@ article p {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#67b940', endColorstr='#383838',GradientType=0 ); /* IE6-9 */
     color: #fff;
 }
+
+#price {
+    clear: both;
+}
 /*=================== Form ===================*/
 
 form{
@@ -328,6 +332,15 @@ input[type="text"]{
     -moz-border-radius: 20px;
     border-radius: 20px;
     padding-left: 1%;
+}
+
+.locationInfo {
+    clear: left;
+    min-height: 100%;
+}
+
+.locationImg {
+    float:left;
 }
 
 /* ================ Best Value ================= */
