@@ -11,18 +11,16 @@ function drawChart(){
     //Create a data table using an array
     var data=google.visualization.arrayToDataTable([
 
-        ['Task','Hours Per Day'],        //Headings name of the two columns
-        ['Work',8],
-        ['Eat', 2],
-        ['Commute',2],
-        ['Watch TV',2],
-        ['Sleep',7]
+        ['Type','Percentage'],        //Headings name of the two columns
+        ['Beer',36],
+        ['Wine', 35],
+        ['Hard liquor',23]
 
     ]);
 
     //Options for the chart
     var options = {
-        title: 'My Daily Activities',
+        title: '2011 study on what most people drink',
         // is3D:true
         pieHole:.4,
         pieSliceText:"value", //"percentage","value","label"

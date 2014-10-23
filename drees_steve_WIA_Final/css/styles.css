@@ -99,11 +99,25 @@ button:hover {
 }
 
 .container {
+    width: 49%;
     clear: both;
 }
 
 .gender {
     width: 100%;
-    clear: both;
+    float: left;
 
+}
+
+.containerTwo {
+    float: right;
+}
+
+#donutChart {
+    clear: left;
+}
+
+.booze {
+    margin: 0 10px;
+    width: 100px;
 }

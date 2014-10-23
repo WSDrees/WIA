@@ -6,7 +6,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="js/modernizr.js"></script>
-
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
     <link href="css/lightbox.css" rel="stylesheet" />
     <link rel="stylesheet" href="css/styles.css"/>
 
@@ -17,23 +17,29 @@
     <canvas id="canvasLogo" width="400" height="100"> Your browser does not support canvas.</canvas>
 </header>
 
+<form>
+    <label for="fName">First Name:
+        <input type="text" id="fName" placeholder="Steve"/>
+    </label>
+
+    <label for="lName">Last Name:
+        <input type="text" id="lName" placeholder="Drees"/>
+    </label>
+
+    <label for="theDate">Date of Birth:
+        <input type="date" name="theDate" id="theDate" aria-required />
+    </label>
+</form>
+
+<section>
+    <div id="donutChart" style="width:500px; height:250px;"></div>
+
+</section>
+
 <div class="container">
 
-    <form>
-        <label for="fName">First Name:
-            <input type="text" id="fName" placeholder="Steve"/>
-        </label>
-
-        <label for="lName">Last Name:
-            <input type="text" id="lName" placeholder="Drees"/>
-        </label>
-
-        <label for="theDate">Date of Birth:
-            <input type="date" name="theDate" id="theDate" aria-required />
-        </label>
-    </form>
-
     <button type="submit" id="research"> Get Research </button>
+
 
 <div class="gender">
 
@@ -68,6 +74,20 @@
     </div>
 </div>
     <div id="byGenger" class="gender"></div>
+
+
+
+
+
+</div>
+
+<div class="containerTwo">
+    <button type="submit" class="booze" id="beer"> Beer </button>
+
+    <button type="submit" class="booze" id="wine"> Wine </button>
+
+    <button type="submit" class="booze" id="liquor"> Liquor </button>
+
 
 </div>
 

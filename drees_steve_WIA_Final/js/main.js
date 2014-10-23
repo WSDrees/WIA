@@ -25,7 +25,11 @@ window.onload = function() {
             ctx.fillText(logo,25,50);
         }
     }
+
 };
+
+
+
 
 $(function(){
 
@@ -37,3 +41,23 @@ $(function(){
  })
 
 });
+
+google.load("visualization", "1", {packages:["corechart"]});
+google.setOnLoadCallback(drawChart);
+function drawChart() {
+    var data = google.visualization.arrayToDataTable([
+        ['Type','Percentage'],        //Headings name of the two columns
+        ['Beer',36],
+        ['Wine', 35],
+        ['Hard liquor',23]
+    ]);
+
+    var options = {
+        title: '2011 study on what most people drink',
+        is3D: true,
+        pieHole: 0.4
+    };
+
+    var chart = new google.visualization.PieChart(document.getElementById('donutChart'));
+    chart.draw(data, options);
+}
