@@ -28,22 +28,6 @@ window.onload = function() {
 
 };
 
-
-//Hide the labels and then animate them in
-//$('#coffeeNumber').hide();
-//$('#teaNumber').hide();
-//
-////Make the animation button work
-//$('#moveIt').click(function(){
-//
-//    //Animate the width of each of the bars
-//    $('#coffee').animate({width:'567px',height:'50px'},1000);
-//    $('#coffeeNumber').slideDown(1000);
-//
-//    $('#tea').animate({width:'300px',height:'50px'},1000);
-//    $('#teaNumber').slideDown(1000);
-//})
-
 $(function(){
 
     $('.gender').hide();
@@ -53,7 +37,24 @@ $(function(){
         $('.gender').show('normal');
  });
 
-    $('')
+    $('#spirit1Number').hide();
+    $('#spirit2Number').hide();
+    $('#spirit3Number').hide();
+
+    $('#beer').click(function(){
+        $('#spirit1').animate({width:'144px',height:'50px'},1000);
+        $('#spirit1Number').slideDown(1000);
+    });
+
+    $('#wine').click(function(){
+        $('#spirit2').animate({width:'140px',height:'117px'},1000);
+        $('#spirit2Number').slideDown(1000);
+    });
+
+    $('#liquor').click(function(){
+        $('#spirit3').animate({width:'92px',height:'57px'},1000);
+        $('#spirit3Number').slideDown(1000);
+    })
 
 });
 

@@ -104,14 +104,13 @@ button:hover {
 }
 
 .gender {
-    width: 100%;
     float: left;
 
 }
 
 .containerTwo {
     float: right;
-    width: 50%;
+    width: 47%;
     margin-bottom: 30px;
 }
 
