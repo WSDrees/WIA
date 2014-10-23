@@ -207,7 +207,7 @@
         var htmlCode = $(course).html();
 
         $('.courseDetailContainer').fadeOut(500,function(){
-            $('.courseDetailContainer .courseOverview').html(htmlCode);
+            $('.courseDetailContainer .courseDetail').html(htmlCode);
             $('.courseDetailContainer').fadeIn(500);
         })
 
