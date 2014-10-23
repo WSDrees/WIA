@@ -88,6 +88,8 @@ button {
     text-decoration:none;
     text-align:center;
     text-shadow:1px 2px 0 #7cacde;
+    clear: both;
+    float: left;
 }
 
 button:hover {
@@ -95,4 +97,13 @@ button:hover {
     background:-moz-linear-gradient( center top, #468ccf 5%, #63b8ee 100% );
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#468ccf', endColorstr='#63b8ee');
     background-color:#468ccf;
+}
+
+.container {
+    clear: both;
+}
+
+#gender {
+    width: 100%;
+
 }

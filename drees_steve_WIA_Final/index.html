@@ -14,28 +14,45 @@
 <body>
 
 <header>
-<canvas id="canvasLogo" width="400" height="100"> Your browser does not support canvas.</canvas>
+    <canvas id="canvasLogo" width="400" height="100"> Your browser does not support canvas.</canvas>
 </header>
 
 <form>
     <label for="fName">First Name:
-    <input type="text" id="fName" placeholder="Steve"/>
+        <input type="text" id="fName" placeholder="Steve"/>
     </label>
 
     <label for="lName">Last Name:
-    <input type="text" id="lName" placeholder="Drees"/>
+        <input type="text" id="lName" placeholder="Drees"/>
     </label>
 
     <label for="theDate">Date of Birth:
-    <input type="date" name="theDate" id="theDate" value="" />
+        <input type="date" name="theDate" id="theDate" aria-required />
     </label>
-
-    <button type="submit"> Get Research </button>
 </form>
+
+<div class="container">
+
+
+<div id="gender">
+<p><b>MALE: </b><em>Beer-</em>48% <em>Wine-</em>20% <em>Liquor-</em>26% <em>NA-</em>6%</p>
+
+<p><b>FEMALE: </b><em>Beer-</em>22% <em>Wine-</em>51% <em>Liquor-</em>21% <em>NA-</em>6%</p>
+</div>
+
+
+<button type="submit" id="research"> Get Research </button>
+
+<div id="byGenger" class="gender"></div>
+
+
+</div>
+
+
+
 
 
 <script src="js/jquery-1.11.0.min.js"></script>
-<script>window.jQuery || document.write('<script src="js/jquery-1.11.0.min.js"><\/script>')</script>
 <script src="js/lightbox.min.js"></script>
 <script src="js/main.js"></script>
 </body>

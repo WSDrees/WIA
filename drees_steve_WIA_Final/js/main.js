@@ -26,3 +26,14 @@ window.onload = function() {
         }
     }
 };
+
+$(function(){
+
+    $('#gender').hide();
+
+ $('#research').click(function(){
+
+        $('#gender').show('normal');
+ })
+
+});
