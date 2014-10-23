@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06eacf0a-8cb6-42f7-b205-fc73fe2678d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Animate.js" afterPath="$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Animate.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drees_steve_WIA_Final/index.html" afterPath="$PROJECT_DIR$/drees_steve_WIA_Final/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drees_steve_WIA_Final/js/main.js" afterPath="$PROJECT_DIR$/drees_steve_WIA_Final/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drees_steve_WIA_Final/css/styles.css" afterPath="$PROJECT_DIR$/drees_steve_WIA_Final/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WIA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,8 +32,8 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/drees_steve_WIA_Final/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-14.086957" vertical-offset="396" max-vertical-offset="1050">
-                  <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+                <state vertical-scroll-proportion="-16.043478" vertical-offset="636" max-vertical-offset="1530">
+                  <caret line="67" column="10" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
                   <folding />
                 </state>
               </provider>
@@ -51,26 +49,6 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="line.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/line.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="330">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Tea.js" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/js/Tea.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="669">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="LineGraph.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js">
               <provider selected="true" editor-type-id="text-editor">
@@ -81,11 +59,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/drees_steve_WIA_Final/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="1041" max-vertical-offset="1710">
-                  <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.17630059" vertical-offset="298" max-vertical-offset="1950">
+                  <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -99,7 +77,7 @@
             <entry file="file://$PROJECT_DIR$/drees_steve_WIA_Final/js/main.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.80717486" vertical-offset="0" max-vertical-offset="675">
-                  <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+                  <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
                   <folding />
                 </state>
               </provider>
@@ -994,22 +972,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Animate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="268" max-vertical-offset="960">
-          <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/line.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="692">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/js/LineGraph.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960">
@@ -1034,30 +996,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/drees_steve_WIA_Final/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.086957" vertical-offset="396" max-vertical-offset="1050">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drees_steve_WIA_Final/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80717486" vertical-offset="0" max-vertical-offset="675">
-          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drees_steve_WIA_Final/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1041" max-vertical-offset="1710">
-          <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day8 Student Files/1-Tea vs Coffee/Coffee-Tea.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.7879257" vertical-offset="509" max-vertical-offset="1155">
@@ -1070,6 +1008,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="669">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day8 Student Files/3-Chart.js-master/line.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="692">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5-StudentFiles_c478b450-bee3-4748-b35a-3c783135a6bb/CreateJS/js/Animate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="268" max-vertical-offset="960">
+          <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drees_steve_WIA_Final/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.043478" vertical-offset="636" max-vertical-offset="1530">
+          <caret line="67" column="10" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drees_steve_WIA_Final/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.80717486" vertical-offset="0" max-vertical-offset="675">
+          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drees_steve_WIA_Final/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17630059" vertical-offset="298" max-vertical-offset="1950">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>

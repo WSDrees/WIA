@@ -29,11 +29,11 @@ window.onload = function() {
 
 $(function(){
 
-    $('#gender').hide();
+    $('.gender').hide();
 
  $('#research').click(function(){
 
-        $('#gender').show('normal');
+        $('.gender').show('normal');
  })
 
 });

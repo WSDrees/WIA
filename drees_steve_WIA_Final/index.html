@@ -17,36 +17,61 @@
     <canvas id="canvasLogo" width="400" height="100"> Your browser does not support canvas.</canvas>
 </header>
 
-<form>
-    <label for="fName">First Name:
-        <input type="text" id="fName" placeholder="Steve"/>
-    </label>
-
-    <label for="lName">Last Name:
-        <input type="text" id="lName" placeholder="Drees"/>
-    </label>
-
-    <label for="theDate">Date of Birth:
-        <input type="date" name="theDate" id="theDate" aria-required />
-    </label>
-</form>
-
 <div class="container">
 
+    <form>
+        <label for="fName">First Name:
+            <input type="text" id="fName" placeholder="Steve"/>
+        </label>
 
-<div id="gender">
+        <label for="lName">Last Name:
+            <input type="text" id="lName" placeholder="Drees"/>
+        </label>
+
+        <label for="theDate">Date of Birth:
+            <input type="date" name="theDate" id="theDate" aria-required />
+        </label>
+    </form>
+
+    <button type="submit" id="research"> Get Research </button>
+
+<div class="gender">
+
+    <h3>Alcohol Use By Gender</h3>
 <p><b>MALE: </b><em>Beer-</em>48% <em>Wine-</em>20% <em>Liquor-</em>26% <em>NA-</em>6%</p>
 
 <p><b>FEMALE: </b><em>Beer-</em>22% <em>Wine-</em>51% <em>Liquor-</em>21% <em>NA-</em>6%</p>
+
+    <hr/>
+
+    <div class="gender">
+
+    <h3>Alcohol Use By Age</h3>
+    <p><b>18-34: </b><em>Beer-</em>39% <em>Wine-</em>25% <em>Liquor-</em>30% <em>NA-</em>6%</p>
+
+    <p><b>35-54: </b><em>Beer-</em>41% <em>Wine-</em>31% <em>Liquor-</em>23% <em>NA-</em>5%</p>
+
+    <p><b>55+: </b><em>Beer-</em>27% <em>Wine-</em>47% <em>Liquor-</em>19% <em>NA-</em>7%</p>
+
+    <hr/>
+    </div>
+
+    <div class="gender">
+
+    <h3>Alcohol Use By Education</h3>
+    <p><b>College Grad: </b><em>Beer-</em>29% <em>Wine-</em>21% <em>Liquor-</em>21% <em>NA-</em>8%</p>
+
+    <p><b>Some College: </b><em>Beer-</em>33% <em>Wine-</em>29% <em>Liquor-</em>29% <em>NA-</em>6%</p>
+
+    <p><b>High School Grad or Less: </b><em>Beer-</em>44% <em>Wine-</em>30% <em>Liquor-</em>21% <em>NA-</em>5%</p>
+
+    </div>
+</div>
+    <div id="byGenger" class="gender"></div>
+
 </div>
 
 
-<button type="submit" id="research"> Get Research </button>
-
-<div id="byGenger" class="gender"></div>
-
-
-</div>
 
 
 
