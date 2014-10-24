@@ -334,7 +334,7 @@ input[type="text"]{
     padding-left: 1%;
 }
 
-.locationInfo {
+.locationInfo, .locationPrice {
     clear: left;
     min-height: 100%;
 }

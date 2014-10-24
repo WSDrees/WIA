@@ -216,10 +216,18 @@
     //=================== DATA VISUALIZATION =================
 
     $('.locationInfo').hide();
+    $('.locationPrice').hide();
 
     $('#location').click(function(){
 
        $('.locationInfo').show('normal');
+        $('.locationPrice').hide();
+    });
+
+    $('#price').click(function(){
+
+        $('.locationPrice').show('normal');
+        $('.locationInfo').hide();
     });
 
 
